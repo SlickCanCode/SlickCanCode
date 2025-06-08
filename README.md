@@ -9,20 +9,8 @@ Hi there! I'm Emmanuel — a passionate Software Engineer focused on building sc
 ## 🚀 Tech Stack & Expertise
 
 **Backend Frameworks**
-- <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="24" style="vertical-align:middle;"/> Spring Boot (Java)
-  </a>
-- <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="24" style="vertical-align:middle;"/>
-    Django
-  </a> /
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="24" style="vertical-align:middle;"/>
-    Flask (Python)
-  </a>
-
-
-
+- 🌿 Spring Boot (Java)
+- 🐍 Django / Flask (Python)
 
 **Languages**
 - Java | Python | JavaScript | SQL
