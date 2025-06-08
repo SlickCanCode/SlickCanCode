@@ -9,8 +9,9 @@ Hi there! I'm Emmanuel — a passionate Software Engineer focused on building sc
 ## 🚀 Tech Stack & Expertise
 
 **Backend Frameworks**
-- ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg) Spring Boot (Java)
-- ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django / ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) Flask (Python)
+- [![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg)](https://spring.io/projects/spring-boot) Spring Boot (Java)
+- [![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)](https://www.djangoproject.com/) Django / [![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)](https://flask.palletsprojects.com/) Flask (Python)
+
 
 
 
