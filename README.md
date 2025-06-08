@@ -1,31 +1,43 @@
-## Hi there 👋
 
 # 👨‍💻 Emmanuel Adelanwa — Software Engineer | Backend Specialist | AI Integrator
 
-Hi there! I'm Emmanuel — a passionate Software Engineer focused on building scalable, secure, and intelligent backend systems. I specialize in **Spring Boot**, **Django**, **Flask**, and **AI-powered integrations** that drive real-world impact.
+Hi there! I'm Emmanuel — a passionate Software Engineer focused on solving everyday problems people often face but rarely talk about—issues the world tends to overlook, yet deeply impact lives by building scalable, secure, and intelligent backend systems. I specialize in **Spring Boot**, **Django**, **Flask**, and **AI-powered integrations** that drive real-world impact.
 
 ---
 
-## 🚀 Tech Stack & Expertise
+# 💻 Tech Stack and Expertise
 
-**Backend Frameworks**
-- 🌿 Spring Boot (Java)
-- 🐍 Django / Flask (Python)
+## Languages  
+![Python](https://camo.githubusercontent.com/7824e03d0cd79f85b8b451bb1dea72245d8ecbf39275389ac2df0a3ee9eb5a55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+![Java](https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+![SQL](https://camo.githubusercontent.com/4949fe954bbdfb18d817aa3045bc8a6cc619291bd6942b9d3a561741c3b58c61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![HTML5](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![CSS3](https://camo.githubusercontent.com/21c96b28e33fe34eeae668ef6fc1daf2b4b87bdf22e8482ad32d87f1d2474277/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 
-**Languages**
-- Java | Python | JavaScript | SQL
+## Developer Tools  
+![Postman](https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
+![Git](https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+
+## Libraries & Frameworks  
+![AWS](https://camo.githubusercontent.com/ae562ceaadddec9d8be4c7c1568a5b9c48973c4279408a4bc0322e7c9db2a518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532333233324633452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
+![React](https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+![PostgreSQL](https://camo.githubusercontent.com/4aed80090cf6326364d8fbc173e9d307293da717b071823b37d3514afcbcd98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![Spring Boot](https://camo.githubusercontent.com/924b1643b42f4aded04442af6a5cbab25c6c25c7570ab924b9d1e1412f536225/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f426f6f742d4632463446393f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e672d626f6f74)
+![Node.js](https://camo.githubusercontent.com/8477a50d7210f0f3bf15fbe5b44809296b75f2101a2927818599d72c8ea72cef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![Azure](https://camo.githubusercontent.com/f64d43451f98b22569cc5ca8e988c7636785c36aae735185aff0e7599ff9d08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f417a7572652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465)
+![Docker](https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
+
 
 **AI & ML**
 - OpenAI API | LangChain | TensorFlow | Scikit-learn  
 - AI-powered features (chatbots, resume analyzers, recommendation engines, etc.)
 
-**Database & Cloud**
-- PostgreSQL | MySQL | MongoDB  
-- Firebase | AWS | Heroku | Docker
-
 **Others**
 - RESTful APIs | Microservices | Authentication & Authorization  
-- Git | GitHub Actions | CI/CD | Agile & TDD
+- CI/CD | Agile & TDD
+- PostgreSQL | MySQL | MongoDB  
+- Firebase | Heroku |
 
 ---
 
@@ -33,30 +45,14 @@ Hi there! I'm Emmanuel — a passionate Software Engineer focused on building sc
 
 - 🔍 **AI Resume Analyzer**: NLP-powered tool for parsing and scoring resumes, with smart job matching.
 - 💳 **Fintech Credit Scoring System**: ML-driven backend for microloans and risk-based repayment recommendations.
-- 💼 **Portfolio APIs**: Fast, secure APIs for real-world business use cases.
 - ⚙️ **Spring Boot & Flask Microservices**: Built for performance, tested for scale.
-
----
-
-## 🛠 Featured Projects
-
-### 🔐 [AI Resume Analyzer](https://github.com/slickCanCode/resume-analyzer)
-> Spring Boot + React + OpenAI  
-> Analyze resumes, get job-matching scores, and receive instant improvements.
-
-### 💸 [Credit Score Engine](https://github.com/SlickCanCode/credit-score-ai)
-> Python + Flask + ML  
-> Alternative-data credit scoring for financially underserved communities.
-
-### ⚙️ [Backend Service Kit](https://github.com/SlickCanCode/backend-kit)
-> Spring Boot microservice starter template with Auth, Swagger, Docker, CI/CD.
 
 ---
 
 ## 📫 Let’s Connect
 
 - 📧 [oreofeadelanwa3@gmail.com](mailto:oreofeadelanwa3@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/OreofeAdelanwa)  
+- 💼 [LinkedIn](https://linkedin.com/in/Oreofe-Adelanwa)  
 - 💻 [NyPortfolio](https://...)  
 - 💬 [WhatsApp](https://wa.me/2347041180422)
 
