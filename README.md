@@ -9,8 +9,9 @@ Hi there! I'm Emmanuel — a passionate Software Engineer focused on building sc
 ## 🚀 Tech Stack & Expertise
 
 **Backend Frameworks**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" width="20" /> Spring Boot (Java)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="20" /> Django / <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" alt="Flask" width="20" /> Flask (Python)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg?color=6DB33F" alt="Spring Boot" width="20" /> Spring Boot (Java)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg?color=092E20" alt="Django" width="20" /> Django / <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg?color=000000" alt="Flask" width="20" /> Flask (Python)
+
 
 
 **Languages**
